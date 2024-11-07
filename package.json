@@ -2,7 +2,7 @@
   "name": "shader",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://username.github.io/shader",
+  "homepage": "https://live2debug.github.io/shader",
   "type": "module",
   "scripts": {
     "dev": "vite",
