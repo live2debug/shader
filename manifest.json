@@ -1,1 +1,1 @@
-
+{"name":"Shader","short_name":"Shader","start_url":"/","display":"standalone","background_color":"#fafafa","lang":"en","scope":"/","description":"A simple utility application that, given an input of a color code, generates different shades from specified bright to a specified dark.","theme_color":"#9C1CCE","icons":[{"src":"/icons/pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/icons/pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
